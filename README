@@ -1,0 +1,4 @@
+MyInit for AlpineLinux
+```
+# apk add build-base git
+```
