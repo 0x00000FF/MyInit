@@ -1,4 +1,8 @@
 MyInit for AlpineLinux
-```
+
 # apk add build-base git
-```
+
+Reference
+
+1. SysV    : https://github.com/slicer69/sysvinit/blob/main/src/init.c
+2. Systemd : https://github.com/systemd/systemd/blob/main/src/core/main.c
